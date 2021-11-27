@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Yes, people will eye you and make it clear that they disapprove of what you're doing. The only way to handle criticism is to foresee it as element of your success formula. This isn't a grind, it is a passion.</p>
+
+<p>
+</p>
+
+Check back at the top of the hour for a new quote!
