@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <p>Yes, people will eye you and make it clear that they disapprove of what you're doing. The only way to handle criticism is to foresee it as element of your success formula. This isn't a grind, it is a passion.</p>
 
-<p>
-</p>
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.quotesgram.com%2Fimg%2F12%2F22%2F921246733-j-paul-getty-quotes_12621-5.png&imgrefurl=https%3A%2F%2Fquotesgram.com%2Fjp-getty-quotes%2F&tbnid=Ju_0DRYVHYrYfM&vet=10CBIQxiAoC2oXChMIsPjJn8O49AIVAAAAAB0AAAAAEBA..i&docid=p3nW5RXsEGd1FM&w=355&h=267&itg=1&q=jean%20paul%20getty&ved=0CBIQxiAoC2oXChMIsPjJn8O49AIVAAAAAB0AAAAAEBA)
 
 Check back at the top of the hour for a new quote!
