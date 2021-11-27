@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/64415804/143681415-360442aa-8ce0-4a17-a0cd-cfe707c20508.png)
-![image](https://user-images.githubusercontent.com/64415804/143681437-c9e6080e-1ba7-4848-ac3c-0c46b799636d.png)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Mannyboy)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammed-jimoh-45120a14a/)
+
 
 <p>Yes, people will eye you and make it clear that they disapprove of what you're doing. The only way to handle criticism is to foresee it as element of your success formula. This isn't a grind, it is a passion.</p>
 
