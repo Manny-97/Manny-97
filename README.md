@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ...
 </details>
 
-<p>Yes, people will eye you and make it clear that they disapprove of what you're doing. The only way to handle criticism is to foresee it as element of your success formula. **This isn't a grind, it is a passion.**</p>
+Yes, people will eye you and make it clear that they disapprove of what you're doing. The only way to handle criticism is to foresee it as element of your success formula. **This isn't a grind, it is a passion.**
+</p>
 
 ![image](https://user-images.githubusercontent.com/64415804/143681203-226cc231-8837-40f3-9648-38b88602f902.png)
 ![image](https://user-images.githubusercontent.com/64415804/143681301-d4ce976f-8d7a-4fd7-a754-453d9c46bb0f.png)
