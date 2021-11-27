@@ -25,7 +25,7 @@
 **My Skillset**
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Git&Version-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
 ...
@@ -34,15 +34,15 @@
 <summary>More Skills</summary>
 
 [](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-DataWrangling-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-DataMunging-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-DataCleaning-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Storytelling-informational?style=flat&logo=matplotlib&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-ML-informational?style=flat&logo=AI&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-DataWrangling-informational?style=flat&logo=pandas&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-DataMunging-informational?style=flat&logo=scipy&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-DataCleaning-informational?style=flat&logo=numpy&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Storytelling-informational?style=flat&logo=plotly&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-ML-informational?style=flat&logo=Tensorflow&logoColor=white&color=4AB197)
 ...
 </details>
 
-Yes, people will eye you and make it clear that they disapprove of what you're doing. The only way to handle criticism is to foresee it as element of your success formula. **This isn't a grind, it is a passion.**
+
 </p>
 
 ![image](https://user-images.githubusercontent.com/64415804/143681203-226cc231-8837-40f3-9648-38b88602f902.png)
