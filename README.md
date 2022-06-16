@@ -25,6 +25,7 @@
 **My Skillset**
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Git&Version-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
